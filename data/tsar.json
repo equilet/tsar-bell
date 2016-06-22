@@ -1,0 +1,22 @@
+{
+	"pattrstorage" : 	{
+		"name" : "tsar.json",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"ui::whackBoost" : [ 0.0 ],
+					"ui::stickHardness" : [ 0.0 ],
+					"ui::loExc" : [ 0.0 ],
+					"ui::loDamping" : [ 0.99997 ],
+					"ui::hiExc" : [ 0.683333 ],
+					"ui::hiDamping" : [ 0.999991 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

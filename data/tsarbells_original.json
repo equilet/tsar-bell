@@ -1,0 +1,84 @@
+{
+	"1" : 	{
+		"stick/hardness" : 0.11811,
+		"filter/freq" : 710.732788,
+		"filter/gain" : 0.484247,
+		"filter/slope" : 1.008587,
+		"gain" : 70,
+		"low/damping" : 0.999997,
+		"low/excitation" : 0.383333,
+		"high/excitation" : 0.966667,
+		"high/damping" : 0.999975,
+		"whack/boost" : 0.5
+	}
+,
+	"6" : 	{
+		"stick/hardness" : 1.0,
+		"low/excitation" : 0.675,
+		"filter/freq" : 887.419128,
+		"filter/gain" : 1.603821,
+		"filter/slope" : 0.558984,
+		"gain" : 90,
+		"whack/boost" : 0.187,
+		"high/damping" : 0.999983,
+		"high/excitation" : 1.0,
+		"low/damping" : 0.999998
+	}
+,
+	"5" : 	{
+		"stick/hardness" : 1.0,
+		"low/excitation" : 0.683333,
+		"filter/freq" : 1545.163696,
+		"filter/gain" : 1.298524,
+		"filter/slope" : 0.716601,
+		"gain" : 90,
+		"whack/boost" : 0.187,
+		"high/damping" : 0.999983,
+		"high/excitation" : 1.0,
+		"low/damping" : 0.999998
+	}
+,
+	"4" : 	{
+		"stick/hardness" : 1.0,
+		"low/excitation" : 0.675,
+		"gain" : 90,
+		"filter/freq" : 879.613098,
+		"filter/gain" : 0.988815,
+		"filter/slope" : 2.093534,
+		"whack/boost" : 0.187,
+		"high/damping" : 0.999983,
+		"high/excitation" : 1.0,
+		"low/damping" : 0.999998
+	}
+,
+	"3" : 	{
+		"stick/hardness" : 1.0,
+		"high/damping" : 0.999982,
+		"filter/freq" : 2016.066895,
+		"filter/gain" : 0.642033,
+		"filter/slope" : 0.5,
+		"gain" : 70,
+		"whack/boost" : 0.187,
+		"high/excitation" : 1.0,
+		"low/damping" : 0.999998,
+		"low/excitation" : 0.882
+	}
+,
+	"2" : 	{
+		"stick/hardness" : 0.976378,
+		"high/damping" : 0.999982,
+		"filter/freq" : 726.693604,
+		"filter/gain" : 0.420514,
+		"filter/slope" : 0.5,
+		"gain" : 70,
+		"whack/boost" : 0.187,
+		"high/excitation" : 1.0,
+		"low/damping" : 0.999998,
+		"low/excitation" : 0.882
+	}
+,
+	"sampler" : 	{
+		"gain" : 95
+	}
+
+}
