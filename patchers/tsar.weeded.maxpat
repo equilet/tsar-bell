@@ -3,9 +3,9 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 7,
-			"minor" : 2,
-			"revision" : 3,
-			"architecture" : "x64",
+			"minor" : 0,
+			"revision" : 5,
+			"architecture" : "x86",
 			"modernui" : 1
 		}
 ,
@@ -224,9 +224,9 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 2,
-							"revision" : 3,
-							"architecture" : "x64",
+							"minor" : 0,
+							"revision" : 5,
+							"architecture" : "x86",
 							"modernui" : 1
 						}
 ,
@@ -563,9 +563,9 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 2,
-							"revision" : 3,
-							"architecture" : "x64",
+							"minor" : 0,
+							"revision" : 5,
+							"architecture" : "x86",
 							"modernui" : 1
 						}
 ,
@@ -1479,7 +1479,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "tsar.param.maxpat",
-				"bootpath" : "~/Documents/BCNM/tsar_bell/max_tsar",
+				"bootpath" : "~/Documents/tsar-bell/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
@@ -1504,7 +1504,7 @@
 				"type" : "iLaX"
 			}
  ],
-		"autosave" : 0
+		"embedsnapshot" : 0
 	}
 
 }

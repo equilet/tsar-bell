@@ -1,8 +1,8 @@
 {
 	"name" : "tsar-bell",
 	"version" : 1,
-	"creationdate" : 3549439851,
-	"modificationdate" : 3549440420,
+	"creationdate" : -745527445,
+	"modificationdate" : -745425744,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -11,6 +11,11 @@
 	"contents" : 	{
 		"patchers" : 		{
 			"_tsar.main.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"_tsar.main.st-john.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
