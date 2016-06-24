@@ -1,0 +1,36 @@
+{
+	"2" : 	{
+		"gain" : 140,
+		"filter/freq" : 794.19104,
+		"filter/gain" : 0.598334,
+		"filter/slope" : 0.914915,
+		"whack/boost" : 0.294,
+		"high/damping" : 0.999983,
+		"high/excitation" : 1.0,
+		"low/damping" : 0.999998,
+		"low/excitation" : 0.785,
+		"stick/hardness" : 0.3
+	}
+,
+	"1" : 	{
+		"gain" : 140,
+		"filter/freq" : 776.752197,
+		"filter/gain" : 0.598334,
+		"filter/slope" : 0.906283,
+		"whack/boost" : 0.294,
+		"high/damping" : 0.999983,
+		"high/excitation" : 1.0,
+		"low/damping" : 0.999998,
+		"low/excitation" : 0.785,
+		"stick/hardness" : 0.3
+	}
+,
+	"sampler/2" : 	{
+		"gain" : 83
+	}
+,
+	"sampler/1" : 	{
+		"gain" : 83
+	}
+
+}
