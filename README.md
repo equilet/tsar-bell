@@ -1,6 +1,8 @@
 # tsar-bell
 Max implementation of Faust code for Tsar Bell project
 
+The Russian Tsar Bell is the largest confirmed bell ever cast at over 200 tons. But in 1732, before it was ever struck, this Goliath of bells broke.  Its parts have been on display in the Kremlin ever since. Our team of UC Berkeley, Stanford, and U Michigan researchers made the Tsar Bell ring for the very first time. With Finite Element Analysis (FEA) and other simulations, we created a computational model of what it would have sounded like.
+
 Before simulating the sound of the Tsar Bell, we simulated the sound of a known bell to prove that our model produces correct results. We simulated the sound of a small dinner bell. Played side by side, the real sound and the simulated sound are nearly indistinguishable, but we noticed that the simulation feels a bit cold because it is too perfect. The simulation involves a "perfect" geometry without variations in revolved profile of the bell. Real bells have inperfections, which produce the distinctive bell sounds. The recording below shows these imperfections in a ringing timbre. 
 
 What do these imperfections sound like in a massive bell? Below is a sound example of a bell with a similar profile as the Tsar Bell, but a smaller size. Scaling the sound to the size of the Tsar Bell, we get this sound, with a warm timbre preserved. 
