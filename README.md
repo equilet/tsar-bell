@@ -11,4 +11,6 @@ Before simulating the sound of the Tsar Bell, we simulated the sound of a known 
 
 Combining the scaling approach with the FEA approach, we created an instrument to play various aspects of the simulation at the same time, at the discretion of the bell toller. Our final model allows us to strike the bell in different, modulated ways. While we know that no simulation ever matches reality, we note that the broken bell gives birth to many versions of what the original bell might have sounded like. A dynamic model in MaxMSP is captured here in this repository. Most of the sound unfolds in very low bass frequencies. Playing the sound properly requires either a very fine pair of headphones or a high-end subwoofer. 
 
+### Credits
+
 Tsar Bell is a project by Chris Chafe, Jeff Davis, Olya Dubatova, John Granzow, Jeff Lubow, Perrin Meyer, Greg Niemeyer, and James O'Brien featuring carillon compositions by Chris Chafe, Jeff Davis and DJ Spooky, with graphics and videos by Olya Dubatova. Special thanks to Richard P. Strauss, Kat Rawks, Ed Campion, Romain Michon, Tiffany Ng, Lara Wolfe, Alex Niemeyer, Meyer Sound, the Berkeley Arts + Design Initiative, made@Berkeley, the Berkeley Center for New Media, the Institute of Slavic, East European, and Eurasian Studies, UC Berkeley CNMAT, Stanford CCRMA, and the University of Michigan. 
